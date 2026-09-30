@@ -1,0 +1,13 @@
+PS C:\Users\divya> & C:/Users/divya/AppData/Local/Programs/Python/Python313/python.exe "c:/Users/divya/OneDrive/Desktop/practical 8/program.1.py"
+Enter number of vertices: 7
+Enter adjacent vertices for each vertex:
+Vertex 0: 1 5
+Vertex 1: 0 2 3 4
+Vertex 2: 1 4
+Vertex 3: 1 4 6
+Vertex 4: 1 2 3 5
+Vertex 5: 0 4
+Vertex 6: 3
+Enter source vertex: 0
+BFS Traversal: 0 1 5 2 3 4 6
+PS C:\Users\divya> 
